@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gritos</string>
+    <string name="poke1">serperior</string>
+    <string name="poke2">swampert</string>
+    <string name="poke3">luxray</string>
+    <string name="poke4">articuno</string>
+    <string name="poke5">pikachu</string>
+    <string name="poke6">lugia</string>
+    <string name="poke7">goodra</string>
+    <string name="poke8">bidoof</string>
+    <string name="poke9">primarina</string>
+    <string name="texto">¿Cual pokemon quieres escuchar?</string>
+</resources>
